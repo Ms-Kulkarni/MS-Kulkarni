@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, JavaScript**
 
-- 📫 How to reach me **mskulkarnik2@gmail.com**
+- 📫 How to reach me **mskulkarnik7486@gmail.com**
 
 - ⚡ Fun fact about me is **That I am to lazy🥱**
 
