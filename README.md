@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web3 project**
 
-- 🌱 I’m currently learning **more about Web3,Crypto,NFT's and etc.**
+- 🌱 I’m currently learning **more about Web3,Crypto,NFT's etc.**
 
 - 🤝 I’m looking for **a role in established IT company**
 
@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **msk97859@gmail.com**
 
-- ⚡ Fun fact about me is **That I am to lazy🥱**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
