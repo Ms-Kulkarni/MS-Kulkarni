@@ -1,8 +1,8 @@
 # Hi there, I'm M S Kulkarni  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-- 👨‍💻 I’m a MERN Stack Web Developer.
-- 📚 I’m currently learning everything about Rust?
+- 👨‍💻 I’m a Front-End Web Developer.
+- 📚 I’m currently learning everything about Go Lang?
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play PC Games🎮.
 
