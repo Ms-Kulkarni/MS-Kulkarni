@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 I’m a Front-End Web Developer.
-- 📚 I’m currently learning everything about Go Lang?
+- 📚 I’m currently learning everything from 100XDevs @harkirat singh?
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play PC Games🎮.
 
